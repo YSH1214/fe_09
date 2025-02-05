@@ -123,6 +123,6 @@
 ---
 
 작성자
-이름: [홍길동]
-연락처: [your.email@example.com]
-GitHub: https://github.com/yourusername
+이름: [홍길동]<br>
+연락처: [your.email@example.com]<br>
+GitHub: https://github.com/yourusername<br>
